@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/74fh2p0or4asjhrs?svg=true)](https://ci.appveyor.com/project/Grafskii/task-18)
